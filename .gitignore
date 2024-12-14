@@ -1,0 +1,7 @@
+# Add this line to ignore .env file
+.env
+
+# Other common files to ignore
+__pycache__/
+*.pyc
+.DS_Store 
